@@ -1,5 +1,5 @@
 # NCHU-Class
-在 NCHU EE 讀碩士的修課計畫
+在 NCHU EE 碩士班的修課計畫
 
 ## Grade 1
  - 林泓均 - 電腦輔助超大型積體電路設計
